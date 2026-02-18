@@ -1,0 +1,16 @@
+Streamlit
+numpy
+pandas
+
+
+########### RAG ####################
+
+streamlit
+torch
+transformers==4.37.2
+sentence-transformers==2.6.1
+faiss-cpu
+langchain
+langchain-community
+langchain-text-splitters
+langchain-huggingface
